@@ -1,3 +1,10 @@
 <Solution>
+  <Folder Name="/Application/">
+    <Project Path="Company.Application.Main/Company.Application.Main.csproj" />
+    <Project Path="Company.Application.Share/Company.Application.Share.csproj" />
+  </Folder>
+  <Folder Name="/Core/" />
+  <Folder Name="/Database/" />
+  <Folder Name="/Hardware/" />
   <Project Path="Shell/Shell.csproj" />
 </Solution>
